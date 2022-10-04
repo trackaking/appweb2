@@ -5,10 +5,9 @@ date: "2022-05-17"
 ---
 
 
-This is my very first post on my Hugo website!
-The Hugo theme being used for this site is called Tale.
-It is very simple to install and configure.
+Name : Stephane Andre Chery 
+noEtudiant : 1935225
 # Subheading
-This is some content.
+nomCours :  Appweb 2
 # Another Subheading
-This is more content.
+nomProfesseur : Patrick Pierre
